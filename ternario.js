@@ -6,5 +6,5 @@ const idadeCliente = 16;
 //} else {
 //    console.log("suco")
 //}
-
+            //condição                    //true      //false
 console.log(idadeCliente >= idadeMinima ? "cerveja" : "suco");
